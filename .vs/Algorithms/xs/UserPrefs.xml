@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D73399B7-FB2C-48C8-9790-ECDB8AFFC1EA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/Tools/FloatExtensions.cs">
+    <Files>
+      <File FileName="Algorithms/Program.cs" Line="6" Column="2" />
+      <File FileName="Algorithms/Tools/FloatExtensions.cs" Line="27" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

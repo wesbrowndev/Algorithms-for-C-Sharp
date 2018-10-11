@@ -1,0 +1,11 @@
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/bin/Debug/netcoreapp2.1/Algorithms.deps.json
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/bin/Debug/netcoreapp2.1/Algorithms.runtimeconfig.json
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/bin/Debug/netcoreapp2.1/Algorithms.runtimeconfig.dev.json
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/bin/Debug/netcoreapp2.1/Algorithms.dll
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/bin/Debug/netcoreapp2.1/Algorithms.pdb
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/obj/Debug/netcoreapp2.1/Algorithms.csprojAssemblyReference.cache
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/obj/Debug/netcoreapp2.1/Algorithms.csproj.CoreCompileInputs.cache
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/obj/Debug/netcoreapp2.1/Algorithms.AssemblyInfoInputs.cache
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/obj/Debug/netcoreapp2.1/Algorithms.AssemblyInfo.cs
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/obj/Debug/netcoreapp2.1/Algorithms.dll
+/Users/wesbrown/Documents/Visual Studio/Algorithms/Algorithms/obj/Debug/netcoreapp2.1/Algorithms.pdb
