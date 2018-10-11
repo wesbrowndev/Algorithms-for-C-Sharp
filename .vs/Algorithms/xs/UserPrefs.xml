@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{D73399B7-FB2C-48C8-9790-ECDB8AFFC1EA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/Tools/FloatExtensions.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algorithms/BinarySearch.cs">
     <Files>
       <File FileName="Algorithms/Program.cs" Line="6" Column="2" />
-      <File FileName="Algorithms/Tools/FloatExtensions.cs" Line="27" Column="39" />
+      <File FileName="Algorithms/Tools/FloatExtensions.cs" Line="31" Column="1" />
+      <File FileName="Algorithms/BinarySearch.cs" Line="44" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Algorithms PreferredExecutionTarget="MonoDevelop.Default" />
